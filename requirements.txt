@@ -1,0 +1,13 @@
+# FDTD PEC Cavity - Python Dependencies
+# 
+# Minimum required versions for the FDTD simulation
+# Install with: pip install -r requirements.txt
+
+# Core numerical computing
+numpy>=1.21.0
+
+# Plotting and visualization
+matplotlib>=3.4.0
+
+# Optional: For enhanced plotting (not required)
+# scipy>=1.7.0
